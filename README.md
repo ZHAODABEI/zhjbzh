@@ -1,4 +1,1 @@
-# zhjbzh
-<?php
-echo "Hello jb"
-?>
+# zhjbzh<?php echo "Hello jb" ?>
